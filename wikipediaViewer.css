@@ -1,0 +1,28 @@
+body{
+  background: url("https://images.unsplash.com/photo-1473624566182-509e437512f4?dpr=1&auto=format&fit=crop&w=1080&h=720&q=80&cs=tinysrgb&crop=");
+  background-size:cover;
+  color: black;
+}
+#head
+{
+font-family:"Dancing Script";
+background-color:grey;
+  margin:0 auto;
+ width:400px;
+  border-radius:5px;
+  align:center;
+
+
+}
+.transparent{
+    background-color: white;
+    display: block;
+    opacity: 0.85;
+    margin: 0 auto;
+
+
+}
+ul{
+  list-style-type: none;
+  text-align:left;
+}
